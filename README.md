@@ -7,6 +7,7 @@
 
 ## Resumen de lo que se hizo
 
+video explicativo : https://vimeo.com/937778937?share=copy
 ### PRIMERA PARTE: 20%
 Se discutió sobre las Colas como estructuras de datos, su linealidad y dinamismo. Se exploraron las operaciones más importantes de una Cola y cómo se diferencian de otras estructuras de datos como Arreglos, Matrices y Listas. Se explicó por qué se les conoce a las Colas como estructuras de datos con prioridades y se describieron varios tipos de Colas según su prioridad. Se proporcionaron ejemplos del mundo real donde se aplican las Colas y se organizó la lógica de las Colas FIFO y LIFO.
 
