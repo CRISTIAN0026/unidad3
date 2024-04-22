@@ -1,8 +1,8 @@
 # Unidad 3 - Estructuras de Datos
 
 <p float="left">
-  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiW1TMUo0z6eqqLXMj7koEHRU0mWdK2NUEN2xpd9Wdw_UDm_gkwY8p0ZndJ58nZb2CVLT82_xUzoGgft5jEhQUVJmc1WPPd89Plm6ZwLWlLq87iDM6uhX5_QEeK6gSppzJBKtYhgyccl3E/s1600/Pila.gif" width="100" />
-  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgf5Jto3CnrTMEzDiB8AfflGqPN8sjXtP19BzlF_mIQdhWMr03va0GehHjRWMVJMGipJuxavSr9tvDwYAYuX0uPIIQUfb-N3117SXRvlEG2PHU5epgQFAPHPzxI_zSD2mLYAcf1EI4RPNE/s1600/Cola.gif" width="100" /> 
+  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiW1TMUo0z6eqqLXMj7koEHRU0mWdK2NUEN2xpd9Wdw_UDm_gkwY8p0ZndJ58nZb2CVLT82_xUzoGgft5jEhQUVJmc1WPPd89Plm6ZwLWlLq87iDM6uhX5_QEeK6gSppzJBKtYhgyccl3E/s1600/Pila.gif" width="250" />
+  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgf5Jto3CnrTMEzDiB8AfflGqPN8sjXtP19BzlF_mIQdhWMr03va0GehHjRWMVJMGipJuxavSr9tvDwYAYuX0uPIIQUfb-N3117SXRvlEG2PHU5epgQFAPHPzxI_zSD2mLYAcf1EI4RPNE/s1600/Cola.gif" width="250" /> 
 </p>
 
 ## Resumen de lo que se hizo
